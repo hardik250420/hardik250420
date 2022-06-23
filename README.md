@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik250420" alt="hardik250420" /></a> </p>
 
-- 🔭 I’m currently studying at [NIT Raipur](Btech 4th Year)
+- 🔭 I’m currently studying at NIT Raipur pursuing Btech in Information Technology.
 
 - 🌱 I’m currently learning **Django,Node.Js,React.Js**
 
